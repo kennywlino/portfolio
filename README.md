@@ -10,3 +10,6 @@ Find the deployed version at: [kennywlino-portfolio.netlify.app](https://kennywl
 | --- | ------------------------- | -------------------- | ---------- | ----------- | ----------------- |
 | 1   | Clone template and deploy | 0:15                 | 11:40am    | 12:00pm     | 0:20              |
 | 2   | About me page             | 0:30                 | 12:05pm    | 12:40pm     | 0:35              |
+| 3   | Projects Section          | 0:30                 | 1:15pm     | 1:45pm      | 0:30              |
+|     |                           |                      |            |             |                   |
+|     |                           |                      |            |             |                   |
