@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Portfolio
 
-Make it your own! 
+Welcome to my portfolio!
+
+Find the deployed version at: https://kennywlino-portfolio.netlify.app/
